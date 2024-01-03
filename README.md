@@ -10,9 +10,11 @@ Game_functions.py, This file holds all the necessary functions needed to execut
 
 NeuralNetHolder, the file that instructs the game to use the neural network to control the rocket.
 
+Landing 1 and 2, is just evidence of the code and game working.
+
 To run the game with the neural network (on windows); 
 
-1. Download the Game.zip file
+1. Download the Game.zip file (unavailable right now as its too big)
 2. Replace "NeuralNetHolder.py" in the downloaded folder and add Game_functions.py.
 3. Navigate to the stripes folder and type “. \activate” to launch the virtual environment
 4. Go back to the main folder and install the requirements with “pip install -r . \requirements.txt”
